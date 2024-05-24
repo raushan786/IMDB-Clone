@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.74e983d8.css",
-    "main.js": "/static/js/main.76ca4d04.js",
-    "index.html": "/index.html",
-    "main.74e983d8.css.map": "/static/css/main.74e983d8.css.map",
-    "main.76ca4d04.js.map": "/static/js/main.76ca4d04.js.map"
+    "main.css": "/imdb-clone/static/css/main.74e983d8.css",
+    "main.js": "/imdb-clone/static/js/main.76ca4d04.js",
+    "index.html": "/imdb-clone/index.html",
+    "main.74e983d8.css.map": "/imdb-clone/static/css/main.74e983d8.css.map",
+    "main.76ca4d04.js.map": "/imdb-clone/static/js/main.76ca4d04.js.map"
   },
   "entrypoints": [
     "static/css/main.74e983d8.css",
